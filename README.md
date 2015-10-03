@@ -2,7 +2,7 @@
 
 Generate a random password, assign it to a user & email it to them.
 
-* Must be run with appropriate privileges 
+* Must be run with appropriate privileges.
 * If using gmail, enable 2 factor authentication and app password.
 
 TODO:
