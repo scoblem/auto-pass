@@ -11,6 +11,7 @@ Generate a random password, assign it to a user & email it to them.
 2. Add command line arguments (argparse) (user, password strength, logging).
 3. Move password gen to function.
 4. Store email credentials in json.
-5. Test as cron job on logoff.
-6. ???
-7. Profit!
+5. Add subject / html email.
+6. Test as cron job on logoff.
+7. ???
+8. Profit!
