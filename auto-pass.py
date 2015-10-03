@@ -21,7 +21,6 @@ def change_passwd(user, passwd):
     chpasswd.communicate("{0}:{1}".format(user, passwd))
 
 def send_mail(from_a, to_a, msg):
-
     username = "<<FromEmail>>"
     password = "<YourPassword>"
     server = smtplib.SMTP_SSL('smtp.gmail.com:465')
