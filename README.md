@@ -4,8 +4,10 @@ Generate a random password, assign it to a user & email it to them.
 
 * Must be run with appropriate privileges.
 * If using gmail, enable 2 factor authentication and app password.
-* email_cred.json = {"default-mail": ["<email_address>", "<password>"], "alt-mail": ["<alt_address>", "<password>"]} etc...
-
+* email_cred.json:
+```json
+{"default-mail": ["<email_address>", "<password>"], "alt-mail": ["<alt_address>", "<password>"]} etc...
+```
 
 ####TODO:
 
