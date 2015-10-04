@@ -2,3 +2,4 @@ __pycache__
 *.pyc
 send.py
 temp.py
+email_cred.json
